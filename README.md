@@ -30,7 +30,7 @@ Exemplificação de POO em Node
 ```
 
 ## 👋🏽 DEMO
-[REPLIT](https://replit.com/@cleibp/Basic-JavascriptNode) 
+[REPLIT](https://replit.com/@cleibp/POO-Node#index.js) 
 
 ## Contatos
 
